@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# Stock Prices Data Analysis
 
 In this project we will be analyzing some sales prices of products ordered in USA.
 
@@ -11,29 +11,16 @@ In this project we will be analyzing some sales prices of products ordered in US
 * [Contact](#contact)
 
 ## General Information
-In this project we will be analyzing some sales prices of products ordered in USA. We will try to find some trends between the sales prices based on their ordered date, quantity ordered, prices and purchase adress.
-
-Plus, we will try to find some answers about total sales of these products, price changes, relationship between the products.
+In this project we will be analyzing stock prices of some big tech companies such as APPLE, MICROSOFT, GOOGLE and AMAZON. We will try to find some trends between the stock prices based on their time attached values.
 
 ## Technologies Used
 - Python - version 3.10.5
 
 ## Setup
-You need to download the sales data first. It is a data including the whole year's sales records. Or you may want to combine these records into one record to work with and get start with the project.
+You need to download the stock data first. It is a data including these big tech companies stock's records. Or you may want to combine these stock data records into one record to work with and get start with the project.
 
 ## Usage
-Some companies especially their sales departments can use this project or they can try to emulate this project for their future profits. Because in this project we tried to solve some questions based on time, sales, quantity ordered and cities also.
-
-## Room for Improvement
-In this project I belive that there are some areas could be improved.
-
-Rooms for improvement:
-- Some graphical analysis, 
-- More data including various sales records,
-
-To do:
-- Maybe we could add more graphical analysis with multivariate plots.  
-- With our enhanced data maybe we could add more analysis based on the other included features of our sales data. 
+Some companies especially their finance departments can use this project or they can try to emulate this project for their future profits of stock price progressions. Because in this project we tried to solve some questions based on time, stock prices (high, low, open and close prices also).
 
 ## Contact
 Created by [@serdbay](https://github.com/serdbay) - feel free to contact me!
