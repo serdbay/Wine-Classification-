@@ -1,6 +1,6 @@
 # Stock Prices Data Analysis
 
-In this project we will be analyzing some sales prices of products ordered in USA.
+In this project we will be analyzing stock prices of some big tech companies such as APPLE, MICROSOFT, GOOGLE and AMAZON
 
 ## Table of Contents
 * [General Info](#general-information)
