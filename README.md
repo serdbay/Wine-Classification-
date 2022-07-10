@@ -7,7 +7,6 @@ In this project we will be analyzing some sales prices of products ordered in US
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
 
 ## General Information
