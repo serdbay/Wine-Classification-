@@ -1,6 +1,6 @@
 # Stock Prices Data Analysis
 
-In this project we will be analyzing stock prices of some big tech companies such as APPLE, MICROSOFT, GOOGLE and AMAZON
+In this project we will be analyzing stock prices of some big tech companies such as APPLE, MICROSOFT, GOOGLE and AMAZON.
 
 ## Table of Contents
 * [General Info](#general-information)
