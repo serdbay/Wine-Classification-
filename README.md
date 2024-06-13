@@ -1,5 +1,5 @@
 # Wine Classification
-In this challenge, we must train a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety).
+In this challenge, we will try to train a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety).
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,7 +11,7 @@ In this challenge, we must train a classification model to analyze the chemical 
 ## General Information
 Wine experts can identify wines from specific vineyards through smell and taste, but the factors that give different wines their individual charateristics are actually based on their chemical composition.
 
-In this challenge, we must train a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety).
+In this challenge, we will try to train a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety).
 
 ## Technologies Used
 - Python 3.10.5
